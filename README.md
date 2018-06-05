@@ -23,7 +23,6 @@ gradle run
 ```
 com.rjm.app.RouteFinderApp 'input-route.txt' 'input-command.txt' 'output.txt'
 ```
-Artificial Intelligence: A Modern Approach
 
 ### Opportunity for optimization
 - Improve naming convention for ADT

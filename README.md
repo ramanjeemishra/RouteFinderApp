@@ -1,6 +1,6 @@
-## Route finding problem (1 - Trains route)
+## Route finding problem
 
-This solution uses Uniform cost search and Depth first search 
+This solution uses Uniform cost search and Depth first search
 for finding the optimal and all possible routes. Depending on constraints defined in route command search will stop. Breadth First search implementation can be used for shortest depth/level path identification.
 
 - For shortest path Uniformm Cost Search algorithm is used.
@@ -10,12 +10,12 @@ for finding the optimal and all possible routes. Depending on constraints define
 - To run the program gradle or simple java code can be used.
 
 Using gradle command is, Arguments to the program( please refer to build.properties)
-- Input Routes - 'input-route.txt', 
+- Input Routes - 'input-route.txt',
 - Set of commands to execute - 'input-command.txt'
 - Output wll be generated in - 'output.txt'
 
-``` 
-gradle run 
+```
+gradle run
 ```
 
 
@@ -23,9 +23,6 @@ gradle run
 ```
 com.rjm.app.RouteFinderApp 'input-route.txt' 'input-command.txt' 'output.txt'
 ```
-
-
-### Following book was referred to develop this program
 Artificial Intelligence: A Modern Approach
 
 ### Opportunity for optimization
